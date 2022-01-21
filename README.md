@@ -30,6 +30,8 @@
 
 
 
+<!-- <img src = "https://img2.gratispng.com/20180527/yuh/kisspng-drawing-doodle-sketch-5b0a529aeeb6a6.8906560015274031629778.jpg"  width="40" height="40" /> -->
+
 
 “Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, por que o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
 ― Charlie Chaplin 

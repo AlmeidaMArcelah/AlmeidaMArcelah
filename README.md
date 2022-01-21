@@ -15,7 +15,10 @@
 
 ## 🛠 Um Pouco Sobre Mim:
 - 🔭 Sou desenvolvedora Java Full Stack
-- Sou uma Forte colaboradora capaz de aprender rapidamente e aplicar novas tecnologias.
+- 💻 Sou uma Forte colaboradora capaz de aprender rapidamente e aplicar novas tecnologias.
+- 🧠 Tenho uma paixão por conhecimento, amo aprender de tudo um pouco.
+- 📖 Já escrevi três livros durante o ensino médio.
+- ✈️ Amo ler e viajar.
 
 
 

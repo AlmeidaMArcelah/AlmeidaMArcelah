@@ -4,17 +4,6 @@
 <img align='right' src="https://media.giphy.com/media/tbWCM4AHfjiIa7RV7K/giphy.gif" width="230">
 
 
-https://media.giphy.com/media/tbWCM4AHfjiIa7RV7K/giphy.gif
-
-— Sumit
- fonte
-Perguntas semelhantes:
-Quais são os diferentes casos de uso de PNG vs. GIF vs. JPEG vs. SVG?  575
-Adicionando imagem gif em um ImageView no android  135
-GIF animado no IE parando  109
-Adicionar imagens ao README.md no GitHub  1844
-Link relativo do GitHub no 
-
 <br>
 <div> 
   <a href="https://www.instagram.com/asterion_mah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

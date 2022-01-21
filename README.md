@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-![Alt text](<iframe src="https://giphy.com/embed/tbWCM4AHfjiIa7RV7K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY</a></p>)
-Confirmação e gif devem ser vistos.
-Espero que isto ajude.
+![Alt text](hhref="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY)
 
 — Sumit
  fonte

@@ -1,6 +1,17 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<iframe src="https://giphy.com/embed/tbWCM4AHfjiIa7RV7K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY</a></p>
+![Alt text](<iframe src="https://giphy.com/embed/tbWCM4AHfjiIa7RV7K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY</a></p>)
+Confirmação e gif devem ser vistos.
+Espero que isto ajude.
+
+— Sumit
+ fonte
+Perguntas semelhantes:
+Quais são os diferentes casos de uso de PNG vs. GIF vs. JPEG vs. SVG?  575
+Adicionando imagem gif em um ImageView no android  135
+GIF animado no IE parando  109
+Adicionar imagens ao README.md no GitHub  1844
+Link relativo do GitHub no 
 
 <br>
 <div> 

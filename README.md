@@ -13,7 +13,7 @@
 ### Que legal que você veio até aqui🤩
 
 
-## 🛠 Um Pouco Sobre Mim:
+##🪐 Um Pouco Sobre Mim:
 - 🔭 Sou desenvolvedora Java Full Stack
 - 💻 Sou uma Forte colaboradora capaz de aprender rapidamente e aplicar novas tecnologias.
 - 🧠 Tenho uma paixão por conhecimento, amo aprender de tudo um pouco.

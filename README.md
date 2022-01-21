@@ -37,9 +37,13 @@
 
   <div>
   <a href="https://github.com/AlmeidaMArcelah">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlmeidaMArcelah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaMArcelah&layout=compact&langs_count=7&theme=dark" />
-</div
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlmeidaMArcelah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaMArcelah&layout=compact&langs_count=7&theme=radical" />
+    </div>
+   <a href="https://github.com/brunalsilva/React-Projeto-Integrador">
+      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
+</a> 
   
     
  
@@ -58,6 +62,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="typescript" width="40" height="40"/> </a>
   
 
+  <div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/almeidamarcelah/count.svg">
+   </div> 
  
 </div>
  

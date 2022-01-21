@@ -1,4 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
+<p align="center">
+  <a href="https://github.com/mayaralbueno/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
+</p>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  -->
 <img align='right' src="https://media.giphy.com/media/tbWCM4AHfjiIa7RV7K/giphy.gif" width="230">

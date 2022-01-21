@@ -1,4 +1,4 @@
-<h1><img src="https://media1.giphy.com/media/zvkNmscQtlgjmg5K4i/giphy.gif?cid=ecf05e47qdpae0mz8fqkh3a2ahtg3657wogt48rn4aqnxthd&rid=giphy.gif&ct=s" width="40"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
+<h1><img src="https://media1.giphy.com/media/zvkNmscQtlgjmg5K4i/giphy.gif?cid=ecf05e47qdpae0mz8fqkh3a2ahtg3657wogt48rn4aqnxthd&rid=giphy.gif&ct=s" width="40"/> Olá, sou a Marcela Giovana de Almeida - 20 anos  <img src="https://media3.giphy.com/media/kEKgllhsCcUtGlSHvP/giphy.gif?cid=ecf05e47rrfqez4tjcmbhok7x6ckm4m1c0s3i5jv53bki68j&rid=giphy.gif&ct=s" width="70"/></h1>
 
 <p align="center">
   <a href="https://github.com/almeidamarcelah/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>

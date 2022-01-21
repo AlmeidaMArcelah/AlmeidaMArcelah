@@ -1,6 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-![Alt text](hhref="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY)
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ -->
+<img align='right' src="https://media.giphy.com/media/tbWCM4AHfjiIa7RV7K/giphy.gif" width="230">
+
+
+https://media.giphy.com/media/tbWCM4AHfjiIa7RV7K/giphy.gif
 
 — Sumit
  fonte

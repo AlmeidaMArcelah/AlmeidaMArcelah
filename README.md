@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou a Marcela Giovana de Almeida - 20 anos</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<iframe src="https://giphy.com/embed/tbWCM4AHfjiIa7RV7K" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cowboy-cowgirl-space-tbWCM4AHfjiIa7RV7K">via GIPHY</a></p>
 
 <br>
 <div> 
@@ -10,7 +11,7 @@
 ### Que legal que você veio até aqui🤩
 
 
-## 🛠 Um Pouco Sobre MiM:
+## 🛠 Um Pouco Sobre Mim:
 - 🔭 Sou desenvolvedora Java Full Stack
 - Sou uma Forte colaboradora capaz de aprender rapidamente e aplicar novas tecnologias.
 

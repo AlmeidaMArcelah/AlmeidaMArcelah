@@ -1,4 +1,4 @@
-<h1><img src="https://media1.giphy.com/media/zvkNmscQtlgjmg5K4i/giphy.gif?cid=ecf05e47qdpae0mz8fqkh3a2ahtg3657wogt48rn4aqnxthd&rid=giphy.gif&ct=s" width="40"/> Olá, sou a Marcela Giovana de Almeida - 20 anos  <img src="https://media3.giphy.com/media/kEKgllhsCcUtGlSHvP/giphy.gif?cid=ecf05e47rrfqez4tjcmbhok7x6ckm4m1c0s3i5jv53bki68j&rid=giphy.gif&ct=s" width="50"/></h1>
+<h1 align="center"><img src="https://media1.giphy.com/media/zvkNmscQtlgjmg5K4i/giphy.gif?cid=ecf05e47qdpae0mz8fqkh3a2ahtg3657wogt48rn4aqnxthd&rid=giphy.gif&ct=s" width="40"/> Olá, sou a Marcela Giovana de Almeida - 20 anos  <img src="https://media3.giphy.com/media/kEKgllhsCcUtGlSHvP/giphy.gif?cid=ecf05e47rrfqez4tjcmbhok7x6ckm4m1c0s3i5jv53bki68j&rid=giphy.gif&ct=s" width="50"/></h1>
 
 <p align="center">
   <a href="https://github.com/almeidamarcelah/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
@@ -27,9 +27,6 @@
 - 📰 [Portifolio](https://almeidamarcelah.netlify.app/)
 
 
-
-
-
 <!-- <img src = "https://img2.gratispng.com/20180527/yuh/kisspng-drawing-doodle-sketch-5b0a529aeeb6a6.8906560015274031629778.jpg"  width="40" height="40" /> -->
 
 
@@ -38,17 +35,37 @@
 
 
 
+<!-- <img src = "https://img2.gratispng.com/20180527/yuh/kisspng-drawing-doodle-sketch-5b0a529aeeb6a6.8906560015274031629778.jpg"  width="40" height="40" /> -->
 
 
-  <div>
+<img align='left' src="https://media0.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif?cid=ecf05e47jdjjqxcx1f5w8kiexc7lijmkxcsjer6abh2ekyi8&rid=giphy.gif&ct=s" width="230">
+
+# ✍🏽 Minha Jornada academica 👩🏽‍🎓:
+- Inglês (08/2019 - sem data prevista);
+- Bootcamp da Generation Brasil (10/2021 - 02/2022);
+- Curso programação Back-End e Front-End pelo Alura(11/2021 - 11/2022;
+- Faculdade de Ciências da Computação pelo Descomplica (06/2022 - 12/2026);
+- Faculdade de Sistema de Informação na Uninove (06/2022 - 12/2026).
+
+
+
+<!-- <img src = "https://img2.gratispng.com/20180527/yuh/kisspng-drawing-doodle-sketch-5b0a529aeeb6a6.8906560015274031629778.jpg"  width="40" height="40" /> -->
+
+
+  <div >
   <a href="https://github.com/AlmeidaMArcelah">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlmeidaMArcelah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <div align="center">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaMArcelah&layout=compact&langs_count=7&theme=radical" />
     </div>
+    </div >
+  <div align="center">
    <a href="https://github.com/brunalsilva/React-Projeto-Integrador">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
-</a> 
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
+    </a> 
+  </div>
+  
   
     
  

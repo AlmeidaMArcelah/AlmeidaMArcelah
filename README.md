@@ -41,7 +41,7 @@
 <img align='left' src="https://media0.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif?cid=ecf05e47jdjjqxcx1f5w8kiexc7lijmkxcsjer6abh2ekyi8&rid=giphy.gif&ct=s" width="230">
 
 # ✍🏽 Minha Jornada academica 👩🏽‍🎓:
-- Inglês (08/2019 - sem data previta)
+- Inglês (08/2019 - sem data prevista)
 - Bootcamp da Generation Brasil (10/2021 - 02/2022);
 - Curso programação Back-End e Front-End pelo Alura(11/2021 - 11/2022;
 - Faculdade de Ciências da Computação pelo Descomplica (06/2022 - 12/2026);
